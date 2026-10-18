@@ -45,8 +45,9 @@
 ---
 
 ## 🛠️ Repository Content / Содержимое
-*   `topology_flat_pattern.svg` — Core vector layout of the optimized zigzag / Векторная развертка топологии.
-*   `/images/paper_prototype.jpg` — Structural A4 paper origami model proving expandability / Фото бумажного макета из А4, доказывающее чистую геометрию сгибов.
+*   `topology_flat_pattern.svg` — Core vector layout of the optimized zigzag geometry. This model represents a single segment (one repeatable pattern step) of the helical corrugation. / Векторная развертка топологии зигзага. Данная модель представляет собой одно звено гофры как один повторяемый (периодический) шаг спирали.
+
+*   `/images/paper_prototype.jpg` — Structural paper origami model proving expandability / Фото бумажного макета, доказывающее чистую геометрию сгибов.
 
 ## 👥 Links / Ссылки
 *   **Russian Mirror / Российское зеркало проекта:** [GitFlic zarhey/pentohelix](https://gitflic.ru) *(укажите точную ссылку после создания)*
