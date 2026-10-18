@@ -45,7 +45,7 @@
 ---
 
 ## 🛠️ Repository Content / Содержимое
-*   `topology_flat_pattern.svg` — Core vector layout of the optimized zigzag geometry. This model represents a single segment (one repeatable pattern step) of the helical corrugation. / Векторная развертка топологии зигзага. Данная модель представляет собой одно звено гофры как один повторяемый (периодический) шаг спирали.
+*   `pentohelix.stl` — Core 3D surface mesh model of the optimized low-poly geometry. This file represents a single repeatable segment of the open helical surface (not a solid body). It serves as a geometric invariant for further thickening, sheet metal/fabric deformation, or toolpath generation. You can click on the file above to explore the surface in GitHub's interactive 3D viewer. / Базовая 3D-модель поверхности (mesh) оптимизированной лоу-поли геометрии. Данный файл представляет собой незамкнутый фрагмент поверхности как один повторяемый шаг спирали (не твердое тело). Служит геометрическим инвариантом для последующего придания толщины, формовки листовых металлов/тканей или проектирования оснастки. Вы можете кликнуть на файл в списке выше, чтобы изучить топологию поверхности в интерактивном 3D-плеере прямо в браузере.
 
 *   `/images/paper_prototype.jpg` — Structural paper origami model proving expandability / Фото бумажного макета, доказывающее чистую геометрию сгибов.
 
