@@ -49,9 +49,11 @@
 
 *   `/images/paper_prototype.jpg` — Structural paper origami model proving expandability / Фото бумажного макета, доказывающее чистую геометрию сгибов.
 
-## 👥 Links / Ссылки
-*   **Russian Mirror / Российское зеркало проекта:** [GitFlic zarhey/pentohelix](https://gitflic.ru) *(укажите точную ссылку после создания)*
+## 👥 Links & Acknowledgments / Ссылки и Благодарности
+*   **Origami Inspiration / Источник вдохновения:** The structural paper prototype was made using the excellent crease pattern from the open DIY project [Pentagonal High-Tower Spring on Instructables](https://www.instructables.com/Pentagonal-High-Tower-Spring/) by user *sphere360*. / Бумажный макет структуры был собран на основе прекрасной схемы развертки из открытого проекта [Pentagonal High-Tower Spring на Instructables](https://www.instructables.com/Pentagonal-High-Tower-Spring/) автора *sphere360*.
+*   **Russian Mirror / Российское зеркало проекта:** [GitFlic zarhey/pentohelix](https://gitflic.ru)
 *   **Developer Profiles:** Follow `zarhey` on YouTube and X (Twitter) for live workshop tests and updates.
+
 
 ## 📜 License / Лицензия
 This hardware design is open-source and distributed under the **CERN Open Hardware Licence (CERN-OHL-W-2.0+)** and **GPL v3.0**. You are free to manufacture, modify, and improve this geometry, provided you maintain attribution and keep all derivative works open-source.
