@@ -69,8 +69,7 @@
 
 1. **Границы прочности материала:** При формовке металла (например, алюминия) радиус скругления вершин и граней подбирается строго под толщину и пластичность конкретного сплава. Игнорирование этого правила приведет к растрескиванию и разрыву заготовки по линиям концентрации напряжений.
 2. **Гидродинамическое давление:** Вариант текстильного фильтра (парусина/нейлон) на стропах работает ТОЛЬКО в условиях расчетного натяжения внутренним потоком. При ошибке в длине строп или резком гидроударе геометрия будет разрушена давлением.
-3. **Безопасность при работе с огнем:** При использовании топологии для бездымного очага (кострища) из бетона, блоки должны отливаться исключительно из сертифицированного ЖАРОПРОЧНОГО бетона. Обычный строительный бетон при нагревании растрескается и может взорваться от внутреннего давления паров влаги.
-4. **Не готовый продукт:** Файл `pentohelix.stl` — это незамкнутый фрагмент поверхности (инвариант), а не готовая твердотельная модель для мгновенной 3D-печати. Оснастку, утолщение стенок и допуски вы рассчитываете самостоятельно под ваши задачи и материалы.
+3. **Не готовый продукт:** Файл `pentohelix.stl` — это незамкнутый фрагмент поверхности (инвариант), а не готовая твердотельная модель для мгновенной 3D-печати. Оснастку, утолщение стенок и допуски вы рассчитываете самостоятельно под ваши задачи и материалы.
 
 ---
 
@@ -78,7 +77,6 @@
 This repository provides a fundamental geometric invariant (open surface mesh). Naive replication without careful calculations of structural mechanics and fluid dynamics will result in failure. Note the following design constraints:
 1. **Material Fatigue:** Sharp low-poly vertices create high stress concentration. When forming sheet metal, ensure the bending radius complies with your specific material's elongation limits.
 2. **Pressure Tolerances:** Textile canvas configurations rely entirely on perfect tension-to-flow balance. Incorrect strut length or sudden hydraulic shock waves will warp or destroy the profile.
-3. **Thermal Shock (Fire-Pit application):** Concrete block execution requires specialized refractory/heat-resistant mix designs. Using standard structural concrete under high thermal stress presents a structural failure and exploding hazard.
 
 
 ## 📜 License / Лицензия
