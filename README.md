@@ -41,6 +41,12 @@
 *   **Металл (Алюминий):** Направленная деформация бесшовной трубы с последующей перфорацией иглами. Максимальная надежность.
 *   **Полимерная лента (Спанбонд):** Непрерывная спиральная намотка с предукладкой (биговкой) внахлест. Эффект «судового пластыря» — давление среды само герметизирует стык, исключая узел сварки.
 *   **Текстиль (Парусина/Нейлон):** Карманный фильтр с системой внутренних строп (парашютная схема). Поток раздувает карманы изнутри, а стропы натягивают парусину, фиксируя жесткую 3D-форму.
+---
+
+### ⚠️ Infrastructure Note / Важное примечание по корпусам фильтров
+
+*   **EN:** Standard domestic Big Blue 20BB filter housings with a radial inlet **cannot** be used out-of-the-box, as they redirect flow and destroy the helical kinetic energy. Since right-handed tangential housings do not exist in the retail consumer market, you must use industrial stainless steel direct-flow housings (In-Line filter housing 20") or manufacture a custom 3D-printed housing head with a tangential clockwise inlet designed specifically to match the Pentohelix step.
+*   **RU:** Стандартные бытовые колбы Big Blue 20BB с радиальным входом **не подходят** для прямого использования, так как они ломают направление потока и гасят кинетическую энергию вихря. Поскольку корпусов с правой тангенциальной закруткой в розничной продаже не существует, необходимо использовать промышленные прямоточные корпуса из нержавеющей стали (In-Line housing 20") либо изготовить кастомную «голову» фильтра методом 3D-печати, заложив в неё правый тангенциальный ввод потока по касательной, согласованный с шагом Pentohelix.
 
 ---
 
